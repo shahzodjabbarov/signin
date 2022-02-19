@@ -9,7 +9,7 @@ from openpyxl import Workbook, load_workbook
 root = Tk()
 
 root.geometry("700x500")
-root.title("Moviesss")
+root.title("Movies")
 
 filename=PhotoImage(file="files//signup.png")
 button_image_1 = PhotoImage(file=("files//button.png"))
