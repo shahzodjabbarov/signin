@@ -1,5 +1,5 @@
 # Login Authentication App
-![hippo](https://github.com/user-attachments/assets/62358771-b33c-45a0-a274-8bbb1b5dfa4c)
+![telegram-cloud-document-2-5402093329561163113](https://github.com/user-attachments/assets/8912dca4-ada7-4961-8c71-cae163272aea)
 
 This Python-based GUI application provides user authentication (sign-up and login) using Tkinter for the graphical interface and OpenPyXL for Excel file management.
 
